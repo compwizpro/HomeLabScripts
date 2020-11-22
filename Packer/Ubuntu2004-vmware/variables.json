@@ -1,0 +1,12 @@
+{
+    "vcenter_server":"vcsa1.homelab.computercompute.com",
+    "username":"srvc_packer@homelab.computercompute.com",
+    "datastore":"vsanDatastore",
+    "folder": "",
+    "host":"",
+    "cluster": "HomeLab",
+    "datacenter": "HomeLab",
+    "network": "NSXT-172.16.2.0-Template",
+    "ssh_username": "packerbuilt",
+    "ssh_password": "PackerBuilt!"
+}
